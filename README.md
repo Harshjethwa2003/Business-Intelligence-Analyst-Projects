@@ -18,6 +18,7 @@ Project 2. Flipkart Mobile Sales
 ![image](https://github.com/Harshjethwa2003/Data-Analyst-Projects/assets/139225446/cde8e2e5-a133-4faf-b14d-7fee92fcc7d1)
 
 The report includes several metrics for each brand such as
+
 --Count of Model by Brand
 
 --Average Rating by Brand 
@@ -25,3 +26,24 @@ The report includes several metrics for each brand such as
 --Count of Brand 
 
 --Average of Selling Price and Average of Original Price by Brand
+
+Project 3. HR Analytics
+![image](https://github.com/Harshjethwa2003/Data-Analyst-Projects/assets/139225446/0c60431d-80be-485f-bc60-615938100630)
+
+--Total employees (1470)
+
+--Attrition rate (480)
+
+--Average salary (hourly: $65.89, monthly: $14.31K)
+
+--Average employee age (36 years) and tenure (7.01 years)
+
+--Breakdown by gender
+
+--Attrition by age, education, and job role
+
+--Attrition By Salary Slab
+
+Project 4.Data Professional survey Breakdown
+![image](https://github.com/Harshjethwa2003/Data-Analyst-Projects/assets/139225446/7fe622a1-fb09-44ce-8630-822a0407c053)
+
