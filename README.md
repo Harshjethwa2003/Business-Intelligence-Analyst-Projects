@@ -13,3 +13,15 @@ Here are some of the things you can learn from a dashboard like this:
 --Where the company is making its sales?
 
 --What payment methods customers are using?
+
+Project 2. Flipkart Mobile Sales
+![image](https://github.com/Harshjethwa2003/Data-Analyst-Projects/assets/139225446/cde8e2e5-a133-4faf-b14d-7fee92fcc7d1)
+
+The report includes several metrics for each brand such as
+--Count of Model by Brand
+
+--Average Rating by Brand 
+
+--Count of Brand 
+
+--Average of Selling Price and Average of Original Price by Brand
