@@ -47,3 +47,14 @@ Project 3. HR Analytics
 Project 4.Data Professional survey Breakdown
 ![image](https://github.com/Harshjethwa2003/Data-Analyst-Projects/assets/139225446/7fe622a1-fb09-44ce-8630-822a0407c053)
 
+--Survey Takers: 630)
+
+--Job Titles: Data Scientists earn highest (avg. $114.7K) 
+
+--Happy with Work-Life Balance: More satisfied with work-life balance than salary.
+
+--Happy with Salary: Lower satisfaction with current salary.
+
+--Difficulty to Break into Data Field: Seen as moderately difficult.
+
+--Favorite Programming Languages: Python is most popular, followed by R,C/C++ JavaScript
