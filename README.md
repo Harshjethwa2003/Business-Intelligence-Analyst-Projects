@@ -1,4 +1,4 @@
-# Data-Analyst-Projects
+# business-intelligence-analyst-Projects
 Transforming Insights into Action for Future Success !
 
 Project 1 . Ecommerce Store (Sales Data)
